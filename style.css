@@ -2,6 +2,7 @@ header{
    background-color: rgb(151, 5, 5);
    color: black;
    display: flex;
+   justify-content: baseline;
 }
 
 .cabeçalho-imagem{
