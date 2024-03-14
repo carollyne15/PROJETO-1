@@ -1,7 +1,7 @@
  *{
    margin: 0;
    padding: 0;
-   
+
  }
 
  }
@@ -19,5 +19,5 @@ header{
 
       .cabeçalho-lista-item{
          display: inline-block;
-         margin: 0 16px;
+         margin: 0 20px;
       }
